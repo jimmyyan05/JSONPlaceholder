@@ -6,5 +6,9 @@
   "users": [
     { "id": 1, "name": "John Doe" },
     { "id": 2, "name": "Jane Doe" }
+  ],
+  "cars":[
+    { "id": 1, "name": "福特" },
+    { "id": 2, "name": "馬自達" }
   ]
 }
